@@ -35,4 +35,7 @@ function Video({ url, channel, description, song, likes, messages, shares }) {
 export default Video;
 // cleanuo done and video component render
 // imported video and attached mp4
+// setup play and pause function, video interface and style app
+
+
 

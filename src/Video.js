@@ -33,3 +33,4 @@ function Video({ url, channel, description, song, likes, messages, shares }) {
 }
 
 export default Video;
+// cleanuo done and video component render

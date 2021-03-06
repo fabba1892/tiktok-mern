@@ -37,7 +37,7 @@ export default Video;
 // imported video and attached mp4
 // setup play and pause function, video interface and style app
 // renderd Footer/sidebar comp  & style video scrollbr
-
+// video sidebar and sidebuttons (share like)
 
 
 

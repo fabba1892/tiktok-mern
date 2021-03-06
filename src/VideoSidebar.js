@@ -35,3 +35,4 @@ function VideoSidebar({ likes, shares, messages }) {
 
 export default VideoSidebar;
 // renderd Footer/sidebar comp  & style video scrollbr
+// video sidebar and sidebuttons (add props share like functn)

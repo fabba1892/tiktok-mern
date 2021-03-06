@@ -5,3 +5,4 @@ const instance = axios.create({
 });
 
 export default instance; 
+// axios npm i & imported & props in the app 

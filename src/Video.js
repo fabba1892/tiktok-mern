@@ -38,6 +38,7 @@ export default Video;
 // setup play and pause function, video interface and style app
 // renderd Footer/sidebar comp  & style video scrollbr
 // video sidebar and sidebuttons (share like)
+// passed in all the pros using thrghout app & video
 
 
 

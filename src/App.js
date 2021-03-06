@@ -40,4 +40,6 @@ function App() {
 export default App;
 // cleanuo done and video component render
 // imported video and attached mp4
+// passed in all the pros using thrghout app & video
+
 

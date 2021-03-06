@@ -34,3 +34,4 @@ function VideoSidebar({ likes, shares, messages }) {
 }
 
 export default VideoSidebar;
+// renderd Footer/sidebar comp  & style video scrollbr

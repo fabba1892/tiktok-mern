@@ -36,6 +36,8 @@ export default Video;
 // cleanuo done and video component render
 // imported video and attached mp4
 // setup play and pause function, video interface and style app
+// renderd Footer/sidebar comp  & style video scrollbr
+
 
 
 

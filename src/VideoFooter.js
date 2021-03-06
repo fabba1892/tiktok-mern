@@ -30,3 +30,4 @@ function VideoFooter({ channel, description, song }) {
 }
 
 export default VideoFooter;
+// renderd Footer/sidebar comp  & style video scrollbr

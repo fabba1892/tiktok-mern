@@ -32,3 +32,5 @@ function VideoFooter({ channel, description, song }) {
 export default VideoFooter;
 // renderd Footer/sidebar comp  & style video scrollbr
 // created styled h3 p tags npm i material imported musicnote and ticker 
+// created ticker functionality and foooter record
+
